@@ -1,7 +1,7 @@
 {
   "pageConfig": {
     "siteName": "Stars",
-    "defaultUiLocale": "zh-CN",
+    "defaultUiLocale": "en",
     "showLanguage": true,
     "showStarsCount": true,
     "showLicense": true,
@@ -9,7 +9,7 @@
     "virtualRowHeight": 140,
     "searchDebounceMs": 300,
     "maxItems": 0,
-    "toolRepoOwner": "OXOYO",
+    "toolRepoOwner": "thoroc",
     "toolRepoName": "stars"
   },
   "deployConfig": {
